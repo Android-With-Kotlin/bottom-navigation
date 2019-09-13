@@ -9,6 +9,8 @@ import android.view.ViewGroup
 
 class HomeFragment : Fragment() {
 
+    // TODO: --------
+
     companion object {
         fun newInstance(): HomeFragment = HomeFragment()
     }
